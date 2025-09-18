@@ -4,4 +4,10 @@ Este é um exemplo de um ficheiro de texto file
 
 hberrgherbgegbyureygferygheryh
 
+<<<<<<< HEAD
 Alterações efetuadas na branch NovaFeature
+=======
+Alterações efetuadas pela branch NovaFeature
+
+Alteração no branch Master
+>>>>>>> master
